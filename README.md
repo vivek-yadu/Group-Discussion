@@ -1,6 +1,4 @@
-# Group-Discussion
-
-<h1>Chat Engine</h1>
+<h1 style="color:blue;">Chat Engine</h1>
 
 Here you talk to a group random people in particular topic that you love 
 
